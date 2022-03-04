@@ -1,10 +1,11 @@
-## quote.js
+![Quote JS logo](/img/banner.png)
 
 A extremely easy to use Javascript library for quotes. A new quote is displayed with every reload.
 
 ---
 
 ## Adding quote.js to your projects
+Your can use either the minify version (quote.min.js) or the regular one (quote.js)
 
 ### **Method 1**:
 
@@ -20,15 +21,19 @@ Coming soon!
 
 ## Inside your HTML add the following:
 
-Example 1 (Inside a <p> tag):
-
 ```
-    <p class="quote" id="quotation"></p>
-
-    <p class="quote source" id="source"></p>
-
+<p class="quote" id="quotejs"></p>
+<p class="quote source" id="source"></p>
 ```
+
+or just give any element the ID of
+
+`id="quotejs"`
+
+To add the author of the quote as well add another line with ID:
+
+`id="source"`
 
 ---
 
-[⚠️ Work in progress]
+⚠️ Work in progress..
