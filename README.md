@@ -1,6 +1,6 @@
 ![Quote JS logo](/img/banner.png)
 
-A extremely easy to use Javascript library for quotes. A new quote is displayed with every reload.
+A extremely easy to use Javascript library for quotes, a new quote is displayed with every reload.
 
 ---
 
